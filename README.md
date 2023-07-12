@@ -14,7 +14,7 @@ This project is a voice translator that enables real-time translation of spoken 
  The recognized text is then translated into the desired language using machine translation techniques. Finally, the translated text can be converted back into spoken language using google text-to-speech synthesis, allowing the user to hear the translated output.
 
  # python Library  used:
- googletrans
+ googletrans(Google Translate API)
 
  PyAudio
 
