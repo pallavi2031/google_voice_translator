@@ -1,9 +1,7 @@
 
 
 # Google voice translator
-video: https://drive.google.com/drive/u/0/folders/1dgnuUHlVUwGzF1edZj-muRXsoPIsoi94
-
-
+video: https://drive.google.com/file/d/1VrVyXWtD_qUPN-OO-15BpN3e8fph1Vit/view?usp=sharing
 # Breif summary of the project:
 This project is a voice translator that enables real-time translation of spoken language from one language to another.
 
